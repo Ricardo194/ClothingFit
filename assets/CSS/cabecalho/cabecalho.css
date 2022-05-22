@@ -1,0 +1,15 @@
+@import url(menu.css);
+@import url(menu__item.css);
+@import url(menu__lista.css);
+@import url(cabecalho__titulo.css);
+
+.cabecalho{
+  box-sizing: border-box;
+  background-color: #dfd9d9;
+  display: flex;
+  height: 20vh;
+  justify-content: space-between;
+  padding: 2rem;
+  width: 100vw;
+}
+

@@ -1,0 +1,12 @@
+.chamada__img{
+  height: 100vh;
+  width: 100vw;
+}
+
+@media (max-width: 500px) {
+  .chamada__img{
+    height: 70vh;
+    width: 100vw;
+  }
+}
+

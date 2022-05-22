@@ -1,0 +1,14 @@
+@import url(chamada__img.css);
+
+.chamada{
+  height: 100vh;
+  padding-bottom: 5rem;
+  width: 100vw;
+}
+
+@media (max-width: 500px) {
+  .chamada{
+    padding-bottom:0.5rem ;
+    height: 70vh;
+  }
+}

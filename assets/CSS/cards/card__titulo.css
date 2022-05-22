@@ -1,0 +1,9 @@
+.card__titulo{
+  border-bottom: 1px solid grey;
+  font-size: 2rem;
+  font-family: 'Chakra Petch', sans-serif;
+  margin-bottom: 1rem;
+  padding-bottom: 2rem;
+  text-transform: uppercase;
+}
+

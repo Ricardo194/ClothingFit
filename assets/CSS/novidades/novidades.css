@@ -1,0 +1,16 @@
+@import url(novidades__titulo.css);
+@import url(novidades__botao.css);
+
+.novidades{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  width: 100vw ;
+  height: 100vh;
+  background-image: url("http://schen.com.br/wp-content/uploads/2019/08/Qual-a-roupa-esportiva-mais-adequada-para-cada-modalidade.jpg");
+  background-size: cover ;
+  background-position: center;
+  border-bottom: 2px solid black;
+}
+

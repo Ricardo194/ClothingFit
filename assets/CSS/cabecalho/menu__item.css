@@ -1,0 +1,17 @@
+.menu__item{
+  cursor: pointer;
+  color: rgb(61, 51, 51);
+  font-size: 1.5rem;
+  font-family:'Assistant', sans-serif;
+  font-weight: bold;
+  margin-right: 2.5rem;
+  margin-left: 2.5rem;
+  text-decoration: none;
+  transition: all ease 0.3s;
+}
+
+.menu__item:hover {
+  border-bottom: solid 1px black;
+  color:  rgb(255, 255, 255);
+ }
+

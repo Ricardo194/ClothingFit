@@ -1,0 +1,9 @@
+.cabecalho__titulo{
+  align-self: center;
+  color: rgb(59, 57, 55);
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 4rem ;
+  text-align: center;
+ font-weight: 400;
+}
+

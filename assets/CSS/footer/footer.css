@@ -1,0 +1,19 @@
+@import url(footer__icon.css);
+@import url(footer__texto.css);
+
+
+.footer{
+  display: flex;
+  justify-content: center;
+  margin: 5rem   0 2rem  0;
+}
+.footer section{
+  display: flex;
+  flex-wrap: wrap;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  width: 53.1875rem;
+}
+
+
